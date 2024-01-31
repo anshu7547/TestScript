@@ -1,0 +1,6 @@
+{
+  "serviceProvider": "Gmail",
+  "senderEmailAddresser": "@gmail.com",
+  "senderEmailPassword": "",
+  "recipientEmailAddresser": "@gmail.com"
+}
